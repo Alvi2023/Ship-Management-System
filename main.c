@@ -23,6 +23,7 @@ int main()
     splash();
     system("cls");
     login();
+
     system("D:\\ship1.jpg");
 
 
@@ -69,6 +70,7 @@ int main()
        system("cls");
 
        system("D:\\ship2.jpg");
+
        printf("Enter any key to continue\n");
        getch();
 

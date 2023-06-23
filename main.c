@@ -76,6 +76,7 @@ int main()
 
             system("cls");
 
+
           bill=fopen("bill.txt","a+");
           fprintf(bill,"%51s\n","   Ship Information");
           fprintf(bill,"%51s\n","=======================");
